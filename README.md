@@ -14,12 +14,6 @@
 
 <br />
 
-<!-- Badges -->
-[![Plugin Version](https://img.shields.io/badge/Version-2.0.1-10B981?style=for-the-badge&logo=wordpress&logoColor=white)](https://heycriss.dev/WP-LinkBio)
-[![WordPress Compatibility](https://img.shields.io/badge/WordPress-6.0%2B%20%7C%206.8-27272A?style=for-the-badge&logo=wordpress&logoColor=FAFAFA)](https://wordpress.org)
-[![PHP Compatibility](https://img.shields.io/badge/PHP-7.4%2B%20%7C%208.3-27272A?style=for-the-badge&logo=php&logoColor=93C5FD)](https://php.net)
-[![React Compatibility](https://img.shields.io/badge/React-18%20%2F%2019%20Ready-27272A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![License](https://img.shields.io/badge/License-GPL--2.0%2B-18181B?style=for-the-badge)](./LICENSE)
 
 <p align="center">
   <a href="https://heycriss.dev/WP-LinkBio"><strong>Sitio Oficial</strong></a> ·
