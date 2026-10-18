@@ -2,7 +2,7 @@
 
 <!-- Animated Editorial Hero Banner -->
 <a href="https://heycriss.dev/WP-LinkBio">
-  <img src="./assets/github-hero.svg" alt="HeyCriss Bio Links — Editorial Link-in-Bio Architecture for WordPress" width="100%" />
+  <img src="https://storage.heycriss.dev/badges/wp-linksbio/github-hero.svg" alt="HeyCriss Bio Links — Editorial Link-in-Bio Architecture for WordPress" width="100%" />
 </a>
 
 <br />
@@ -44,7 +44,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/github-features-bento.svg" alt="HeyCriss Bio Links Bento Features" width="100%" />
+  <img src="https://storage.heycriss.dev/badges/wp-linksbio/github-features-bento.svg" alt="HeyCriss Bio Links Bento Features" width="100%" />
 </div>
 
 ---
@@ -279,7 +279,7 @@ Distribuido bajo la licencia **GNU General Public License v2.0 o posterior (`GPL
 <div align="center">
   <br />
   <p>
-    Diseñado y mantenido con precisión por <strong><a href="https://heycriss.dev/WP-LinkBio">HeyCriss Labs</a></strong>
+    Diseñado y mantenido con precisión por <strong><a href="https://heycriss.dev/">HeyCriss Labs</a></strong>
   </p>
   <p>
     <a href="https://heycriss.dev/WP-LinkBio"><code>heycriss.dev/WP-LinkBio</code></a>
